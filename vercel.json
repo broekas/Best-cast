@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/frame", "destination": "/app/frame.ts" }
+  ]
+}
